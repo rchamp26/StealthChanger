@@ -1,5 +1,8 @@
 # Welcome to the StealthChanger wiki!
 
+- For extra support join our [Discord](https://discord.gg/JhYY5BJe)
+- For serial requests please see our [rules and how to](https://discord.gg/CjjZ4B5J)
+
 1. After printing the parts make sure that the hex holes look to be proper hexes and that they are very uniform.  If they are misshapen chances are you need to reprint as you will have alignment issues.  It doesn't take much to be out by a lot.  Try printing at a slower speed if you have issues.
 
 2. Dragon Burners require 60mm per tool
