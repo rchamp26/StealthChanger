@@ -1,4 +1,4 @@
-![Stealthchanger Logo](https://github.com/Stealthchanger/Toolchanger/blob/main/media/Stealthchanger_logo.png?raw=true)
+![Stealthchanger Logo](https://github.com/StealthChanger/Toolchanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
 # StealthChanger
 
 **WIP - STABLE TESTED AND WORKING BUT STILL WIP - BOM MAY CHANGE**
