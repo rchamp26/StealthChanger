@@ -24,3 +24,11 @@ Follow [Creating a pull request](https://docs.github.com/en/pull-requests/collab
 
 
 **Not following any of these guide lines will result in the pull request being denied**
+
+## Support via Donation
+
+StealthChanger and all other designs by DraftShift design are fully open source and come at no cost to the user.
+
+If you feel that you would like to contribute by donating, please use either the Paypal or Ko-Fi links below
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB27XC84YZPA4)  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L0XA8TK)
