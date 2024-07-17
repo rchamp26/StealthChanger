@@ -14,6 +14,7 @@ Coming Soon
 ## Settings
 
 All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings) or better.
+NOTE: Shuttle needs to print with "support touching buildplate"
 
 
 ## Orientation
