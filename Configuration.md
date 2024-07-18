@@ -1,11 +1,12 @@
 Toolchangers start with number 0, and count up. So for all the configs, make sure you change all sections. IE, in your T1 config, make sure its extruder1, fan1, etc. See the examples.  **NOTE: The only except to this rule is T0 extruder has no number.**
 
 1. [Toolhead Configuration](#toolheads-configuration)
-2. [CANbus](#canbus)
-3. [Offsets](#offsets)
-4. [Dock Positions](#dock-positions)
-5. [close_y and safe_y](#close_y-and-safe_y)
-6. [Docking Path](#Docking-Path)
+2. [Z Endstop Configuration](#z-endstop-configuration)
+3. [CANbus](#canbus)
+4. [Offsets](#offsets)
+5. [Dock Positions](#dock-positions)
+6. [close_y and safe_y](#close_y-and-safe_y)
+7. [Docking Path](#Docking-Path)
 
 ## Toolheads Configuration
 
