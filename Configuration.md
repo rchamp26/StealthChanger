@@ -15,6 +15,14 @@ Please see the repo files for more info on these. [Configuration Files Repo](htt
 You need to add the info in printer.cfg from the repo to your your printer.cfg
 You need to have a separate toolhead config for each toolhead, then link those in your printer.cfg, as well as removing/moving the current extruder/hotend config from your printer.cfg file. See the examples in the repo for more information and a starting place. You will have to edit them with your own values.
 
+## Z Endstop Configuration
+
+IMPORTANT! - If you're coming from a build that used a z-endstop switch for homing and non-tap probe(omron, klicky, euclid, etc.) you want to make sure to change your z endstop sensor pin mapping to use the tap probe instead of the z-endstop switch
+```
+endstop_pin: probe:z_virtual_endstop
+```
+
+
 ## CANbus
 
 [Esoterical CANbus](https://github.com/Esoterical/voron_canbus) this is a pretty definitive guide for canbus implementation on klipper.
